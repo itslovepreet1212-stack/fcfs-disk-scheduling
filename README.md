@@ -14,7 +14,6 @@
 **Team Members:**
 - Lovepreet Singh
 - Navjot Singh
-- Krish Sharma
 - Mandeep Singh
 
 </div>
