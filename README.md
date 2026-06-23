@@ -311,12 +311,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️love for Operating Systems Course**
 
+
 </div>
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for Operating Systems Course**
+**Made for Operating Systems Course but we enjoy from learning it **
 
 </div>
