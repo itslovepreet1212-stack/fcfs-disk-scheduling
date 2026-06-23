@@ -318,6 +318,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made for Operating Systems Course but we enjoy from learning it **
+**@ Made for Operating Systems Course but we enjoy from learning it @**
 
 </div>
